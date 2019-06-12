@@ -1,1 +1,223 @@
-sds
+@import url('https://fonts.googleapis.com/css?family=Stylish|Roboto');
+
+				 @font-face {
+                font-family:Montserrat-Bold;
+                src: url(https://voublaa.github.io/res/font/Montserrat-Bold.ttf);
+            }
+body {
+				font-family:Stylish;
+				margin:0px;
+				color:#5A6174;
+				user-select: none; /* supported by Chrome and Opera */
+
+   -webkit-user-select: none; /* Safari */
+
+   -khtml-user-select: none; /* Konqueror HTML */
+
+   -moz-user-select: none; /* Firefox */
+
+   -ms-user-select: none; /* Internet Explorer/Edge */
+
+            cursor: default;
+				
+				}
+			
+			.img_ti {
+				width:100%;
+			    
+				overflow:hidden;
+				border-radius:10px;
+				margin-top:-20px;
+				background-color:black;
+				}
+				
+				.ct_ti {
+					padding-top:20px;
+					padding-left:20px;
+					padding-right:20px;
+					
+					font-size:15px;
+					
+					}
+					
+					.ct_ti_ds {
+						font-size:13px;
+						padding-top:0px;
+						}
+						
+						p {
+							padding:10px;
+							font-size:17px;
+							font-family:Montserrat-Bold;
+							color:#5A6174;
+							line-height:2;
+							}
+							
+							h2 {
+							  padding-left:7px;
+							color:#5A6174;
+								}
+							
+					.also_read {
+						width:90%;
+						height:110px;
+						
+						}
+						.also_read_ti {
+							width:100%;
+							padding:5px;
+							}
+							
+							.also_read_ct {
+								width:100%;
+								border:solid 1px green;
+								border-radius:5px;
+								height:60px;
+								padding:5px;
+								display:flex;
+								
+								}
+								
+								.also_read_ct_img {
+									width:30%;
+                                    height:100%;
+                                    display:block;
+									background-color: aqua;
+									display:flex;
+									}
+									
+									.also_read_ct_ti {
+										width:70%;
+										height:100%;
+										background-color: lightsalmon;
+										display:flex;
+										padding-left:5px;
+										}
+										
+										.ct_img {
+											width:70%;
+											transform:translateX(20%);
+											border-radius:5px;
+											}
+										
+										.fixed_home {
+											width:45px;
+											height:45px;
+											border-radius:50%;
+											position:fixed;
+											top:10px;
+											left:5%;
+											border:solid 1px #F1F1F1;
+											background-color:#E2E2E2;
+											transition:0.5s;
+											}
+											
+											.fixed_home:hover  {
+												background-color:gray;
+												}
+											
+											.related_post {
+												width:100%;
+												display:flex;
+												flex-wrap:wrap;
+												
+												}
+												
+												.related_post_ti {
+													width:80%;
+													height:30px;
+													color:#F27D2E;
+													padding-left:15px;
+													padding-top:20px;
+													font-size:25px;
+												
+													}
+											
+											
+											.fixed_home_ct {
+												position:relative;
+												top:50%;
+												left:50%;
+												transform:translate(-25%, -55%);
+												font-size:40px;
+												}
+			 .loader {
+    position: fixed;
+    width:100%;
+    height:100%;
+    z-index: 9999;
+    background-color:white;
+    margin-top:-27px;
+}
+		.loader_ct {
+			position:fixed;
+			top:50%;
+			left:50%;
+			transform:translate(-50%, -50%);
+			width:30%;
+        }
+
+		.post {
+				width:95%;
+				height:90px;
+				margin:10px;
+			    transform:translateX(1.6%);
+			margin-top:20px;
+			display:flex;
+			flex-wrap:wrap;
+			overflow:hidden;
+			   
+				}
+				
+				.post_img {
+					width:35%;
+					height:100%;
+					background-color:violet;
+					}
+					
+					.post_ti {
+						width:65%;
+						height:100%;
+						background-color:#E1E6EA;
+						font-family:Montserrat-Bold;
+						font-weight:570;
+						font-size:12px;
+						line-height:1.7;
+						
+						}
+						
+						
+						.web {
+							margin:0px;
+							padding:7px;
+							padding-top:0px;
+							}
+						
+						#nightcheckbox {
+    display:none;
+}
+
+.nightmode {
+    position:fixed;
+    top:0px;
+    left:80%;
+    width:20px;
+    height:30px;
+    z-index:2;
+    cursor: pointer;
+}
+
+.nightimg {
+    width:100%;
+    position:relative;
+    top:50%;
+    left:50%;
+    transform:translate(-50%, -50%);
+}
+
+
+
+#nightcheckbox:checked ~ .web {
+    color:grey;
+    background-color: black;
+}
