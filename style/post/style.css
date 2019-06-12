@@ -221,3 +221,57 @@ body {
     color:grey;
     background-color: black;
 }
+
+
+
+
+
+
+
+
+@media (min-width:600px) {
+		.img_ti {
+            width:90%;
+		}
+		
+		.content {
+			width:70%;
+			}
+
+		.also_read {
+			width:70%;
+			height:150px;
+		}
+
+		.ct_img {
+			width:60%;
+		}
+
+		.post {
+			width:550px;
+		}
+	}
+
+
+	@media (min-width:800px) {
+		.img_ti {
+			width:60%;
+		}
+		
+		.content {
+			width:50%;
+			}
+
+		.also_read {
+			width:500px;
+			height:200px;
+		}
+
+		.ct_img {
+			width:400px;
+		}
+
+		.post {
+			width:450px;
+		}
+	}
