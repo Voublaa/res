@@ -303,11 +303,15 @@
                 }
                 
                 .about_us {
-                width:250px;
+                width:100%;
 		height:200px;
-                 border-radius:15px;          
+                          
                 
                 }
+
+                .about_us_ct {
+		border-radius:15px;	
+}
                 
                 
                 .about_us_ti {
