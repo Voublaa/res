@@ -91,7 +91,7 @@ body {
 
 .also_read_ti {
 	position:absloute;
-	transform:translate(50%, 0%);
+	transform:translate(40%, 10px);
 	font-size:18px;
 	color:gray;
 }
@@ -178,11 +178,12 @@ display:flex;
 			width:30%;
         }
 						 
-						
+						 
 						.web {
 							margin:0px;
 							padding:7px;
 							padding-top:0px;
+							overflow:hidden;
 							
 							}
 						
