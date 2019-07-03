@@ -116,6 +116,12 @@ body {
 											.fixed_home:hover  {
 												background-color:gray;
 												}
+.the_end {
+	width:40%;
+	height:2px;
+	background-color:gray;
+	padding-left:10%;
+}
 											
 											.post_content {
        width:100%;
