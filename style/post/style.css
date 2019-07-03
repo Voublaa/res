@@ -144,6 +144,7 @@ height:220px;
 margin: 0 auto;
 margin-bottom:40px;
 display:flex; 
+border:solid 1px green;
 }
 
 .words {
@@ -156,7 +157,7 @@ display:flex;
        
 }
 
-.imgti {
+.hyl_img {
        width:300px;
        height:200px;
        position:absolute;
