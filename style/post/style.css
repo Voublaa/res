@@ -205,12 +205,13 @@ display:flex;
 			transform:translate(-50%, -50%);
 			width:30%;
         }
-						
+						 
 						
 						.web {
 							margin:0px;
 							padding:7px;
 							padding-top:0px;
+							width:100%;
 							height:100%;
 							}
 						
