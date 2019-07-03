@@ -141,7 +141,7 @@ body {
 .post {
 width:300px;
 height:220px;
-margin: 0 0;
+margin: 0 auto;
 margin-bottom:40px;
 display:flex; 
 border:solid 1px green;
@@ -199,35 +199,6 @@ border:solid 1px green;
 			transform:translate(-50%, -50%);
 			width:30%;
         }
-
-		.post {
-				width:95%;
-				height:90px;
-				margin:10px;
-			    transform:translateX(1.6%);
-			margin-top:20px;
-			display:flex;
-			flex-wrap:wrap;
-			overflow:hidden;
-			   
-				}
-				
-				.post_img {
-					width:35%;
-					height:100%;
-					background-color:violet;
-					}
-					
-					.post_ti {
-						width:65%;
-						height:100%;
-						background-color:#E1E6EA;
-						font-family:Montserrat-Bold;
-						font-weight:570;
-						font-size:12px;
-						line-height:1.7;
-						
-						}
 						
 						
 						.web {
