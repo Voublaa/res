@@ -7,7 +7,7 @@
             
     body {
        margin:0px;
-       background-color:#F3F3F8;
+       background-color:#F3F3F5;
        user-select: none; /* supported by Chrome and Opera */
        -webkit-user-select: none; /* Safari */
        -khtml-user-select: none; /* Konqueror HTML */
