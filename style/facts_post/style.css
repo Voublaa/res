@@ -19,6 +19,13 @@ body {
       
       margin-left:20px;
     }
+
+    .title {
+        width:140px;
+        position:absolute;
+        top:10px; left:50%;
+        transform:translateX(-50%);
+}
     
     .content {
       display:flex;
