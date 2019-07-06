@@ -54,7 +54,7 @@ body {
     .ct_loading {
         position: absolute;
         font-family:Montserrat-Bold;
-        transform: translate(120px, 200px);
+        transform: translate(130px, 200px);
         font-size:18px;
         z-index:0;
     }
