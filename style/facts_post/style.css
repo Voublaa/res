@@ -50,6 +50,14 @@ body {
       z-index:1;
       
     }
+
+    .ct_loading {
+        position: absolute;
+        font-family:Montserrat-Bold;
+        transform: translate(120px, 200px);
+        font-size:18px;
+        z-index:0;
+    }
     
     .bottom  {
       width:100%;
