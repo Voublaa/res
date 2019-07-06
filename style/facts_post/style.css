@@ -43,10 +43,12 @@ body {
       height:420px;
       border-radius:15px;
       overflow:hidden;
-      background-color:lightblue;
+      background-color:transparent;
       margin:10px 5px 10px 5px;
       margin:0 auto;
       box-shadow:10px 10px 10px #E5E7F0;
+      z-index:1;
+      
     }
     
     .bottom  {
