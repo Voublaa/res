@@ -1,25 +1,24 @@
-@import url('https://fonts.googleapis.com/css?family=Stylish|Roboto');
+@import url('https://fonts.googleapis.com/css?family=Stylish');
 
 				 @font-face {
                 font-family:Montserrat-Bold;
                 src: url(https://voublaa.github.io/res/font/Montserrat-Bold.ttf);
+            }
+            
+             @font-face {
+                font-family:Uroob;
+                src: url(https://voublaa.github.io/res/font/Uroob.ttf);
             }
 body {
 				font-family:Stylish;
 				margin:0px;
 				color:#5A6174;
 				user-select: none; /* supported by Chrome and Opera */
-
-   -webkit-user-select: none; /* Safari */
-
-   -khtml-user-select: none; /* Konqueror HTML */
-
-   -moz-user-select: none; /* Firefox */
-
-   -ms-user-select: none; /* Internet Explorer/Edge */
-
-            cursor: default;
-				
+               -webkit-user-select: none; /* Safari */
+              -khtml-user-select: none; /* Konqueror HTML */
+              -moz-user-select: none; /* Firefox */
+               -ms-user-select: none; /* Internet Explorer/Edge */
+               cursor: default;
 				}
 			
 			.img_ti {
@@ -27,7 +26,7 @@ body {
 			        
 				overflow:hidden;
 				border-radius:10px;
-				margin-top:5px;
+				margin-top:15px;
 				
 				}
 				
@@ -53,6 +52,15 @@ body {
 							line-height:2;
 							}
 							
+							p1 {
+							padding:10px;
+							font-size:26px;
+							font-family:Uroob;
+							color:#5A6174;
+							line-height:1.4;
+							letter-spacing:1.5;
+							}
+							
 							h2 {
 							  padding-left:7px;
 							color:#5A6174;
@@ -60,10 +68,10 @@ body {
 							
 		 			
 										
-	                                                                     .ct_img {
-											width:70%;
-											transform:translateX(20%);
-											border-radius:5px;
+	                        .ct_img {
+							  width:70%;
+							   transform:translateX(20%);
+							    border-radius:5px;
 											}
 										
 										.fixed_home {
@@ -181,9 +189,10 @@ display:flex;
 						 
 						.web {
 							margin:0px;
-							padding:7px;
-							padding-top:0px;
+							padding:7px 0px 240px 7px;
 							overflow:hidden;
+							
+							
 							
 							}
 						
