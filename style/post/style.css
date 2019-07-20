@@ -6,8 +6,8 @@
             }
             
              @font-face {
-                font-family:Uroob;
-                src: url(https://voublaa.github.io/res/font/Uroob.ttf);
+                font-family:Dyuthi;
+                src: url(https://voublaa.github.io/res/font/Dyuthi.ttf);
             }
 body {
 				font-family:Stylish;
@@ -55,7 +55,7 @@ body {
 							p1 {
 							padding:10px;
 							font-size:19px;
-							font-family:Montserrat-Bold;
+							font-family:Dyuthi;
 							color:#5A6174;
 							line-height:1.4;
 							letter-spacing:1;
