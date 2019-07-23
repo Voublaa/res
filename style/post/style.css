@@ -86,6 +86,7 @@ body {
 											border:solid 1px #F1F1F1;
 											background-color:#E2E2E2;
 											transition:0.5s;
+											opacity:0.3;
 											}
 											
 											.fixed_home:hover  {
@@ -200,6 +201,8 @@ display:flex;
 						
 						#nightcheckbox {
     display:none;
+    position:absolute;
+    left:4000px;
 }
 
 .nightmode {
@@ -218,6 +221,7 @@ display:flex;
     top:50%;
     left:50%;
     transform:translate(-50%, -50%);
+    opacity:0.4;
 }
 
 
