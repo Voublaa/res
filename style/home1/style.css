@@ -423,7 +423,7 @@
                 }
 
                   .latest_facts {
-					text-align:center;
+					
 					display:flex;
 					flex-wrap:wrap;
 					
@@ -431,7 +431,7 @@
 				
 		 .facts {
 					width:250px;
-					height:90px;
+					
 					
 					
 					margin-bottom:10px;
