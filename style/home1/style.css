@@ -426,14 +426,14 @@
 					text-align:center;
 					display:flex;
 					flex-wrap:wrap;
-					transform: translateY(15px);
+					
 				}
 				
 		 .facts {
 					width:250px;
 					height:90px;
 					
-					margin:0 auto;
+					
 					margin-bottom:10px;
  					
 					box-shadow:2px 2px 15px #E5E7F0, -2px -2px 15px #E5E7F0;
@@ -447,8 +447,9 @@
 				}
 				
 		.facts_ct {
-					margin:0 auto;
-					transform:translateY(17px);
+					
+					text-align:left;
+			                padding:7px;
 				}
                 
                 .collection {
