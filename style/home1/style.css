@@ -63,11 +63,13 @@
 
                 .about_us_ct {
 			width:100%;
+			text-align:center;
 }
 
                 .about_us_img {
-			width:100%;
+			width:80%;
 			border-radius:15px;
+			margin:0 auto;
 }
                 
                 .latest_blog {
