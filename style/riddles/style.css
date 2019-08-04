@@ -94,7 +94,7 @@ transform:translate(-50%, -50%);
 color:white;
 									}
 									
-					 .collection {
+					.collection {
                 width:100%;
                 transform:translateY(20px);
                 display:flex;
@@ -107,7 +107,7 @@ color:white;
                 .collection_ct {
                 width:170px;
                 height:170px;
-                background-color:blue;
+                background-color:#F27D2E;
                 margin:20 auto;
                 display:flex;
                 flex-wrap:wrap;
@@ -117,7 +117,7 @@ color:white;
                 .collection_ct_img {
                 width:170px;
                 height:130px;
-                background-color:#28C8C8;
+                background-color:#F27D2E;
                 display:block;
                 }
                 
