@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Stylish');
+@import url('https://fonts.googleapis.com/css?family=Stylish|Baloo Chettan');
 
 				 @font-face {
                 font-family:Montserrat-Bold;
@@ -56,18 +56,17 @@ body {
 							
 							p1 {
 							padding:10px;
-							font-size:33px;
-							font-family:Dyuthi;
+							font-size:17px;
+							font-family:Baloo Chettan;
 							color:#5A6174;
-							line-height:1.4;
-							letter-spacing:1;
-							font-weight:500;
-							text-align:justify;
+							line-height:2;
+							
 							}
 							
 							h2 {
 							  padding-left:7px;
 							color:#5A6174;
+							font-family:Baloo Chettan;
 								}
 							
 		 			
