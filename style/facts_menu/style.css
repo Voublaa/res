@@ -29,7 +29,8 @@ background-color:#F3F3F5;
 	}
 	
 .ti {
-		width:260px;
+		width:200px;
+	        transform:translate(0px, 10px);
 		}
 		
 
