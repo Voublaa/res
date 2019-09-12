@@ -20,7 +20,7 @@ body {
 	position:fixed;
 	top:0px;
 	left:0px;
-	z-index:1;
+	z-index:100;
 	}
 	
 .hide_fixed_head {
@@ -86,7 +86,7 @@ body {
       transform:translateY(-80px);
       display:flex;
       text-align:center;
-      
+      z-index:2;
     }
     
     .previous {
