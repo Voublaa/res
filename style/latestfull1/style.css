@@ -34,17 +34,11 @@ body {
 	}
 	
 .title {
-		width:100%;
-		height:70px;
+		width:170px;
+		
 		
 		}
 		
-.ti {
-       font-size:40px;
-       color:#F27D2E;
-       font-family:Stylish;
-       transform:translate(10px, 8px);
-}
 
 .search {
         width:25px;
