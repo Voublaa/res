@@ -36,11 +36,11 @@
                 
                 
                 .title {
-                width:95px;
+                width:105px;
 		position:relative;
                 top:14px; left:50%;
                 transform:translateX(-50%);
-                
+                margin-bottom:15px;
                 }
                 
                 
