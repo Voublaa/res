@@ -42,9 +42,9 @@ body {
 }
 
     .title {
-        width:140px;
+        width:95px;
         position:absolute;
-        top:10px; left:50%;
+        top:14px; left:50%;
         transform:translateX(-50%);
 }
     
