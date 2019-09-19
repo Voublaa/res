@@ -36,17 +36,13 @@
                 
                 
                 .title {
-                width:100%;
+                width:95px;
+		position:relative;
+                top:14px; left:50%;
+                transform:translateX(-50%);
                 
                 }
                 
-                h1 {
-                text-align: center;
-                color:#F27D2E;
-                font-size:45px;
-                font-family:Stylish;
-                
-                }
                 
                 .about_us {
                 width:100%;
