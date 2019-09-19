@@ -92,6 +92,7 @@ margin: 0 auto;
 margin-bottom:40px;
 display:flex; 
 font-family:Montserrat-Bold;
+cursor: pointer;
 }
 
 @font-face {
@@ -148,6 +149,7 @@ font-family:Montserrat-Bold;
 								margin-top:40px;
 								margin-left:20px;
 								color:white;
+								cursor: pointer;
 								}
 
                                                           .more_block_cur {
@@ -160,6 +162,7 @@ font-family:Montserrat-Bold;
 								margin-top:40px;
 								margin-left:20px;
 								  color:gray;
+								 cursor: pointer;
 								}
 								
 								.more_block_sub {
@@ -189,6 +192,7 @@ font-family:Stylish;
 		display:flex;
 		flex-wrap:wrap;
 		text-align:center;
+	        cursor: pointer;
 }
 							
 .collection_ct_img {
