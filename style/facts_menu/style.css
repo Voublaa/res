@@ -30,7 +30,8 @@ background-color:#F3F3F5;
 	
 .ti {
 		width:95px;
-	        transform:translate(5px, 14px);
+	        transform:translateY(14px);
+	        text-align:center;
 		}
 		
 
