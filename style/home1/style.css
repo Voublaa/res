@@ -66,6 +66,7 @@
 			width:80%;
 			border-radius:15px;
 			margin:0 auto;
+			cursor: pointer;
 }
                 
                 .latest_blog {
@@ -111,15 +112,11 @@
                 .obc {
                 width:210px;
 		height:230px;
-               
-                
-                
+		cursor: pointer;
                 overflow: hidden;
                 padding-left:10px;
                 padding-right:10px;
                 display:inline-block;
-                
-                
                 }
                 
                 
@@ -186,6 +183,7 @@
 					font-family:Montserrat-Regular;
 					border-radius:15px;
 					font-size:18px;
+			                cursor: pointer;
 				}
 				
 		.facts_ct {
@@ -212,6 +210,7 @@
                 display:flex;
                 flex-wrap:wrap;
                 text-align:center;
+		cursor: pointer;
                 }
                 
                 .collection_ct_img {
