@@ -92,7 +92,7 @@ margin: 0 auto;
 margin-bottom:40px;
 display:flex; 
 font-family:Montserrat-Bold;
-cursor: pointer;
+cursor: default;
 }
 
 @font-face {
