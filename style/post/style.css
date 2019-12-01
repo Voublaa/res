@@ -25,11 +25,13 @@ body {
 @keyframes img_ani {
  0% {
     transform: rotateZ(15deg) translate(-20px,-70px);
+     
      opacity: 0;
  }
 
  100% {
-transform: rotateZ(0deg) translate(0px,0px);
+    transform: rotateZ(0deg) translate(0px,0px);
+     
      opacity: 1;
  }
 }
@@ -94,7 +96,7 @@ h1 {
     z-index: 100;
     opacity: 0.4;
     
-    background-image: url("home.png");
+    background-image: url("https://voublaa.github.io/res/common/home.png");
     background-position: 50% 94%;
      background-size: cover;
      background-repeat: no-repeat;
@@ -111,11 +113,13 @@ h1 {
     z-index: 100;
     opacity: 0.4;
     
-    background-image: url("night.png");
+    background-image: url("https://voublaa.github.io/res/common/night.png");
     background-position: 50% 94%;
      background-size: cover;
      background-repeat: no-repeat;
 }
+
+
 
 
 
