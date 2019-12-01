@@ -25,13 +25,11 @@ body {
 @keyframes img_ani {
  0% {
     transform: rotateZ(15deg) translate(-20px,-70px);
-     
      opacity: 0;
  }
 
  100% {
-    transform: rotateZ(0deg) translate(0px,0px);
-     
+transform: rotateZ(0deg) translate(0px,0px);
      opacity: 1;
  }
 }
@@ -84,6 +82,40 @@ h1 {
         line-height:2;
         font-weight: 100;
         }
+
+.home {
+    width:40px;
+    height:40px;
+    border-radius: 50%;
+    background-color: white;
+    position: fixed;
+    top:15px;
+    left:20px;
+    z-index: 100;
+    opacity: 0.4;
+    
+    background-image: url("home.png");
+    background-position: 50% 94%;
+     background-size: cover;
+     background-repeat: no-repeat;
+}
+
+.night {
+    width:40px;
+    height:40px;
+    border-radius: 50%;
+    background-color: white;
+    position: fixed;
+    top:15px;
+    left:85%;
+    z-index: 100;
+    opacity: 0.4;
+    
+    background-image: url("night.png");
+    background-position: 50% 94%;
+     background-size: cover;
+     background-repeat: no-repeat;
+}
 
 
 
