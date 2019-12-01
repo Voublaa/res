@@ -2495,7 +2495,7 @@
    .section.hero-section {
      position: relative;
      height: 80vh;
-     background-image: url("toy_store_bg.jpg");
+     background-image: url("https://voublaa.github.io/website/english/home1/toy_store_bg.jpg");
      background-position: 50% 94%;
      background-size: cover;
      background-repeat: no-repeat;
