@@ -120,6 +120,38 @@ h1 {
 }
 
 
+.circle {
+    width:4000px;
+    height:4000px;
+    background-color:white;
+    border-radius:50%;
+    position:fixed;
+    top:15px;
+    left:20px;
+    opacity: 1;
+    animation: circle 100s ease-in ;
+    display:none;
+    z-index:99999;
+    }
+
+    @keyframes circle {
+        0% {
+            transform: translate(-3350px, -3350px);
+            opacity: 1;
+          }
+
+        0.7% {
+            transform: translate(-2000px, -2000px);
+        }
+          
+        
+          
+        100% {
+            transform: translate(-2000px, -2000px);
+            opacity: 1;
+          }
+        }
+
 
 
 
