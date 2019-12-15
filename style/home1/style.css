@@ -2730,12 +2730,18 @@ html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:1
    .text-white1 {
      color: #fff;
      display:none;
+     margin:0 auto;
    }
 
    .text-white2 {
      color: #fff;
      display: inline-block;
+     margin:0 auto;
    }
+
+   .hero-section {
+       text-align:center;
+     }
 
 
    
@@ -5176,6 +5182,7 @@ html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:1
        padding-top: 104px;
        padding-bottom: 104px;
      }
+    
      .section.video-section {
        padding-bottom: 72px;
      }
