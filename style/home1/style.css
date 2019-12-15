@@ -2726,6 +2726,18 @@ html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:1
    .text-white {
      color: #fff;
    }
+
+   .text-white1 {
+     color: #fff;
+     display:none;
+   }
+
+   .text-white2 {
+     color: #fff;
+     display: block;
+   }
+
+
    
    .utility-page-wrap {
      display: -webkit-box;
